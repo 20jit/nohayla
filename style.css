@@ -1,0 +1,55 @@
+h1, h2 {color:#2E5266; 
+}
+
+h1, h2 {text-shadow:;}
+
+
+p {
+		text-indent: 30px;
+	}
+
+
+h1 {font-family: arial, verdana, sans-serif;
+    text-align: center;
+    border-width: medium;
+    border-style: outset;
+    border-color: black ;
+}
+
+p {font-family: arial, verdana, sans-serif;}
+
+h2 {font-family: "Times New Roman", serif; font-style: italic;}
+
+
+ul, ul {color :77BFA3;}
+
+
+
+p {font-style:italic;}
+
+
+ul {color:77BFA3; }
+
+html {background-attachment:;}
+ 
+body { background-color: DDE7C7 ;
+ }
+
+ main {
+ 	width: 90% ;
+ 	margin: auto;
+
+ }
+
+td {
+	border: 1px solid black;
+}
+
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+
+tr { 
+	text-align: center;
+ }
